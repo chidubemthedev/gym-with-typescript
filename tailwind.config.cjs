@@ -24,7 +24,7 @@ module.exports = {
         "mobile-home": "url('./assets/HomePageGraphic.png')"
       }),
       fontFamily: {
-        dmsans: ["DM sans", "sans-sefif"],
+        dmsans: ["DM Sans", "sans-sefif"],
         montserrat: ["Montserrat", "sans-serif"]
       },
       content: {
