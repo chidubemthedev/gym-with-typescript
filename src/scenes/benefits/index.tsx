@@ -7,7 +7,7 @@ import {
 } from "@heroicons/react/24/solid";
 import { motion } from "framer-motion";
 import HText from "@/shared/HText";
-import Benefit from "./Benefit";
+import Benefit from "./benefit";
 import BenefitsPageGraphic from "@/assets/BenefitsPageGraphic.png";
 import ActionButton from "@/shared/ActionButton";
 
